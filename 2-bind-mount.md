@@ -18,6 +18,8 @@ docker run -d --name <nombre contenedor> --mount type=bind,source=<ruta carpeta 
 ![Volúmenes](volumen-host.PNG)
 # COMPLETAR CON EL COMANDO
 
+docker run -d --name bindmount -P -v "C:\Users\manue\Documents\ARCHIVOS\nginx\html":/usr/share/nginx/html nginx:alpine
+
 ### ¿Qué sucede al ingresar al servidor de nginx?
 # COMPLETAR CON LA RESPUESTA A LA PREGUNTA
 
