@@ -30,7 +30,7 @@ Se crearon distintos archivos y directorios del motor mysql.
 
 ### Para que persista la información es necesario conocer en dónde wordpress almacena la información.
 # COMPLETAR LA SIGUIENTE ORACIÓN. REVISAR LA DOCUMENTACIÓN DE LA IMAGEN EN https://hub.docker.com/
-En el esquema del ejercicio la carpeta del contenedor (b) es (COMPLETAR CON LA RUTA)
+En el esquema del ejercicio la carpeta del contenedor (b) es (/var/www/html)
 
 Ruta carpeta host: .../ejercicio3/www
 
