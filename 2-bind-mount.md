@@ -23,7 +23,7 @@ docker run -d --name bindmount -P -v "C:\Users\manue\Documents\ARCHIVOS\nginx\ht
 ### ¿Qué sucede al ingresar al servidor de nginx?
 # COMPLETAR CON LA RESPUESTA A LA PREGUNTA
 
-Me sale error 404
+Me sale error 404 Forbidden
 
 ### ¿Qué pasa con el archivo index.html del contenedor?
 # COMPLETAR CON LA RESPUESTA A LA PREGUNTA
