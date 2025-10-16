@@ -20,8 +20,13 @@ La carpeta db del host contiene todos los archivos de la base de datos MySQL (ar
 ### Crear un contenedor con la imagen mysql:8  en la red net-wp, configurar las variables de entorno: MYSQL_ROOT_PASSWORD, MYSQL_DATABASE, MYSQL_USER y MYSQL_PASSWORD
 # COMPLETAR CON EL COMANDO
 
+docker run -d --name mysql-wp1 --network net-wp -v "C:\Users\manue\Documents\ARCHIVOS\nginx1\ejercicio3\db:/var/lib/mysql" -e MYSQL_ROOT_PASSWORD=12345 -e MYSQL_DATABASE=wordpressdb -e MYSQL_USER=angel1 -e MYSQL_PASSWORD=1234 mysql:8
+
+
 ### ¿Qué observa en la carpeta db que se encontraba inicialmente vacía?
 # COMPLETAR CON LA RESPUESTA A LA PREGUNTA
+
+Se crearon distintos archivos y directorios del motor mysql.
 
 ### Para que persista la información es necesario conocer en dónde wordpress almacena la información.
 # COMPLETAR LA SIGUIENTE ORACIÓN. REVISAR LA DOCUMENTACIÓN DE LA IMAGEN EN https://hub.docker.com/
