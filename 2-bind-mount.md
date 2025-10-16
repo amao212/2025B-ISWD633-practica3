@@ -28,6 +28,8 @@ Me sale error 404 Forbidden
 ### ¿Qué pasa con el archivo index.html del contenedor?
 # COMPLETAR CON LA RESPUESTA A LA PREGUNTA
 
+No se puede abrir, por que no encuentra el archivo
+
 ### Ir a https://html5up.net/ y descargar un template gratuito, descomprirlo dentro de tu computador en la carpeta html
 ### ¿Qué sucede al ingresar al servidor de nginx?
 # COMPLETAR CON LA RESPUESTA A LA PREGUNTA
