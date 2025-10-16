@@ -85,6 +85,9 @@ _La instalación puede tomar varios minutos, mientras espera realice un diagrama
 
 # COMPLETAR CON EL DIAGRAMA SOLICITADO
 
+<img width="650" height="464" alt="image" src="https://github.com/user-attachments/assets/ea359ad4-0447-468c-80bf-7c31be78eac1" />
+
+
 ### Eliminar un volumen específico
 ```
 docker volume rm <nombre volumen>
