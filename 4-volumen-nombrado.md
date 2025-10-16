@@ -85,7 +85,8 @@ _La instalación puede tomar varios minutos, mientras espera realice un diagrama
 
 # COMPLETAR CON EL DIAGRAMA SOLICITADO
 
-<img width="701" height="468" alt="image" src="https://github.com/user-attachments/assets/388b3e20-c951-4ee6-966d-75b80f01b0ff" />
+<img width="760" height="632" alt="image" src="https://github.com/user-attachments/assets/1ef24fa7-e529-4807-9e2e-8b0d47c71ea9" />
+
 
 
 
