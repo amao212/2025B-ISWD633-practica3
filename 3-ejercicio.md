@@ -37,9 +37,13 @@ Ruta carpeta host: .../ejercicio3/www
 ### Crear un contenedor con la imagen wordpress en la red net-wp, configurar las variables de entorno WORDPRESS_DB_HOST, WORDPRESS_DB_USER, WORDPRESS_DB_PASSWORD y WORDPRESS_DB_NAME (los valores de estas variables corresponden a los del contenedor creado previamente)
 # COMPLETAR CON EL COMANDO
 
+docker run -d --name wordpress-wp1 --network net-wp -p 9500:80 -v "C:\Users\manue\Documents\ARCHIVOS\nginx1\ejercicio3\www:/var/www/html" -e WORDPRESS_DB_HOST=mysql-wp1:3306 -e WORDPRESS_DB_USER=angel1 -e WORDPRESS_DB_PASSWORD=1234 -e WORDPRESS_DB_NAME=wordpressdb wordpress
+
 ### Personalizar la apariencia de wordpress y agregar una entrada
 
 ### Eliminar el contenedor y crearlo nuevamente, ¿qué ha sucedido?
 
 # COMPLETAR CON LA RESPUESTA A LA PREGUNTA 
+
+En este caso como creamos la carpeta y guardamos todo lo del wordpress al momento de volverlo a crear la pagina cargo con todas las configuraciones.
 
