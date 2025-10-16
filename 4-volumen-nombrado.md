@@ -85,7 +85,8 @@ _La instalación puede tomar varios minutos, mientras espera realice un diagrama
 
 # COMPLETAR CON EL DIAGRAMA SOLICITADO
 
-<img width="650" height="464" alt="image" src="https://github.com/user-attachments/assets/ea359ad4-0447-468c-80bf-7c31be78eac1" />
+<img width="701" height="468" alt="image" src="https://github.com/user-attachments/assets/388b3e20-c951-4ee6-966d-75b80f01b0ff" />
+
 
 
 ### Eliminar un volumen específico
