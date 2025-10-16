@@ -34,10 +34,16 @@ No se puede abrir, por que no encuentra el archivo
 ### ¿Qué sucede al ingresar al servidor de nginx?
 # COMPLETAR CON LA RESPUESTA A LA PREGUNTA
 
+Como se descargo el template, ya hay un archivo html, entonces en este caso sale el template correctamente.
+
 ### Eliminar el contenedor
 # COMPLETAR CON EL COMANDO
 
+docker rm -f bindmount
+
 ### ¿Qué sucede al crear nuevamente un contenedor montado al directorio definidos anteriormente?
 # COMPLETAR CON LA RESPUESTA A LA PREGUNTA
+
+Como se mapeo todos los puertos, primero se cambio de puerto, en cuanto al momento de ingresar al servidor nginx el template se cargo sin problemas.
 
 
